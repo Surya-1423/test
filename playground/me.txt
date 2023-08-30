@@ -1,5 +1,0 @@
-{{#user}}
-Name: Suryakant
-Skills: C++, Python, JAVA, SQL, Machine Learning
-Email: surysharma.1235@gmail.com
-{{/user}}
